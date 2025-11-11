@@ -1,1 +1,0 @@
-﻿<%@ Page Language="VB" AutoEventWireup="false" CodeFile="getimage.aspx.vb" Inherits="getimage" %>
