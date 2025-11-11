@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="" title=""  description="">
+        <siteMapNode url="./FileUpLoad.aspx" title="ホーム"  description="ホーム" />
+        <siteMapNode url="./explanation.aspx" title="画像変換サイトの説明"  description="画像変換サイトの説明" />
+    </siteMapNode>
+</siteMap>

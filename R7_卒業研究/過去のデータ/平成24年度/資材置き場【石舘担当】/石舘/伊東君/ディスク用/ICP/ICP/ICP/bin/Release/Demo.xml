@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MyConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PaletteDistance>3000</PaletteDistance>
+  <MiddleDistance>2000</MiddleDistance>
+  <LeftArmDistance>400</LeftArmDistance>
+  <GeneratePointInterval>100</GeneratePointInterval>
+  <ContextUpdateInterval>5</ContextUpdateInterval>
+  <SwipeInterval>1</SwipeInterval>
+  <CircleInterval>1</CircleInterval>
+  <SteadyInterval>1</SteadyInterval>
+  <PushInterval>1</PushInterval>
+  <PushStableInterval>1</PushStableInterval>
+</MyConfig>
