@@ -1,0 +1,7 @@
+set HTTP_PROXY=http://172.16.0.2:8080	
+set HTTPS_PROXY=http://172.16.0.2:8080	
+
+pip install openpyxl 
+pip install streamlit-option-menu 
+
+
